@@ -1,6 +1,6 @@
 # Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
-## Nome(s) dos estudante(s): Guilherme Valadão Pereira e matrícula(s): 22610561
+## Nome(s) dos estudante(s): Guilherme Valadão Pereira e matrícula(s): 22610561 / João Miguel A. Costa e matrícula(s): 22611175
 
 ## Objetivo
 Compreender a evolução das redes de computadores, identificar seus elementos básicos e classificar diferentes tipos de redes.
